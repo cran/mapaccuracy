@@ -1,0 +1,11 @@
+ecc9e15fb6f16eefa799ba165d98dbfd *DESCRIPTION
+5fc0b0600e47d5b17fe8b28857fbc1c3 *LICENSE
+7c0fb9f5ec0cad3dabd86b8cd6f5cc58 *NAMESPACE
+cb324862a0bcaddb06106aea91f19e6e *NEWS.md
+f57152077ca4f5ae9469edff8b513f3e *R/internal.R
+6c844f196ec7111f93f7c4de087e2a1d *R/olofsson.R
+350b2290d18a74bbf6893b90e01c7d4d *R/stehman2014.R
+98f72f35b4c92a1a9bfc232915f9f366 *README.md
+614702aa95cfd7c9cb70d83a5ad3afea *man/internal.mapaccuracy.Rd
+25e015220b02c8dd8869164012b46cc0 *man/olofsson.Rd
+3596bd2748cea46e1b739800e67304ed *man/stehman2014.Rd
